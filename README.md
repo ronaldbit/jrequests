@@ -14,7 +14,7 @@ Para obtener instrucciones de instalación, consulte nuestros documentos en [htt
 Nosotros amablemente proporcionamos soporte CDN para JavaScript. Simplemente use estos enlaces.
 Copie y pege en el apartado en el Head.
 ```
-<link rel="stylesheet" href="https://jrequests.ronaldbit.com/jrequests-4.5.6.min.js"> 
+<link rel="stylesheet" href="https://jrequests.ronaldbit.com/jrequests.min.js"> 
 ```
 
 o puede descargar el js directamente aqui en Git.
@@ -34,7 +34,7 @@ Copie el HTML a continuación para comenzar a trabajar con un documento Bootstra
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <title>Codint Example</title>
     //integrando jrequests
-    <link rel="stylesheet" href="https://jrequests.ronaldbit.com/jrequests-4.5.6.min.js"> 
+    <link rel="stylesheet" href="https://jrequests.ronaldbit.com/jrequests.min.js"> 
   </head>
   <body>
     <button id="addElements">Añadir elementos</button>
@@ -113,7 +113,7 @@ Una vez descargado, descomprima la carpeta comprimida para ver la estructura. Ve
 
 ```
 jrequests/
-└─── jrequests-4.5.6.min.js
+└─── jrequests.min.js
 ```
 
 ¡Esperamos que disfrutes utilizando jRequests en tu desarrollo web!
