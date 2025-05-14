@@ -3,18 +3,18 @@ Requests es una biblioteca JavaScript que simplifica las solicitudes AJAX y la m
 
 ## Demo
 
-url: [https://jrequests.ronald-ramos.com/](https://jrequests.ronald-ramos.com/pruebas.php) 
+url: [https://jrequests.ronaldbit.com/](https://jrequests.ronaldbit.com/pruebas.php) 
 
 ## Install
 
-Para obtener instrucciones de instalación, consulte nuestros documentos en https://ronald-ramos.com/project/jrequests 
+Para obtener instrucciones de instalación, consulte nuestros documentos en https://ronaldbit.com/project/jrequests 
 
 ## Configuration
 
 Nosotros amablemente proporcionamos soporte CDN para JavaScript. Simplemente use estos enlaces.
 Copie y pege en el apartado en el Head.
 ```
-<link rel="stylesheet" href="https://jrequests.ronald-ramos.com/jrequests-4.5.6.min.js"> 
+<link rel="stylesheet" href="https://jrequests.ronaldbit.com/jrequests-4.5.6.min.js"> 
 ```
 
 o puede descargar el js directamente aqui en Git.
@@ -34,7 +34,7 @@ Copie el HTML a continuación para comenzar a trabajar con un documento Bootstra
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <title>Codint Example</title>
     //integrando jrequests
-    <link rel="stylesheet" href="https://jrequests.ronald-ramos.com/jrequests-4.5.6.min.js"> 
+    <link rel="stylesheet" href="https://jrequests.ronaldbit.com/jrequests-4.5.6.min.js"> 
   </head>
   <body>
     <button id="addElements">Añadir elementos</button>
