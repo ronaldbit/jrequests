@@ -7,7 +7,7 @@ url: [https://jrequests.ronaldbit.com/](https://jrequests.ronaldbit.com/pruebas.
 
 ## Install
 
-Para obtener instrucciones de instalación, consulte nuestros documentos en https://ronaldbit.com/project/jrequests 
+Para obtener instrucciones de instalación, consulte nuestros documentos en [https://ronaldbit.com/project/jrequests ](https://ronaldbit.com/projects/p-jrequests)
 
 ## Configuration
 
